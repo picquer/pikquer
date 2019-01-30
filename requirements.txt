@@ -59,7 +59,6 @@ vine==1.1.4
 virtualenv==16.0.0
 websockets==3.2
 zope.interface==4.6.0
-=======
 amqp==2.3.2
 asyncio==3.4.3
 attrs==18.2.0
