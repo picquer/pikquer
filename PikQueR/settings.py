@@ -26,7 +26,7 @@ SECRET_KEY = 'f2ov0-a)3g$y-st^a3y^l)3*tl3$wv^a=(#s(co*&)=!rjy@f@'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = [".pikquer.com"]
 
 
 
