@@ -25,13 +25,9 @@ SECRET_KEY = 'f2ov0-a)3g$y-st^a3y^l)3*tl3$wv^a=(#s(co*&)=!rjy@f@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-<<<<<<< HEAD
 
 ALLOWED_HOSTS = ["*"]
-=======
-ALLOWED_HOSTS = ["*"]
 
->>>>>>> 1268e2fbad23c58abdb444c4388b6a03abc8ce9a
 
 
 # Application definition
